@@ -1,0 +1,279 @@
+{"input": "phone, call, friend", "output": "You want to call a friend on the phone."}
+{"input": "shoes, wear, run", "output": "You wear shoes to go for a run."}
+{"input": "music, play, guitar", "output": "You play music on the guitar."}
+{"input": "sunset, watch, beach", "output": "You want to watch the sunset at the beach."}
+{"input": "water, drink, thirsty", "output": "You are thirsty and want to drink water."}
+{"input": "dog, walk, park", "output": "It seems like you want to walk the dog in the park."}
+{"input": "Dog, Bird, Moon, Water_fountain", "output": "I want to go for a walk with my dog, watch the birds, look at the moon, and drink from a water fountain."}
+{"input": "phone, charge, night", "output": "You charge your phone at night."}
+{"input": "Dog, Bird, Water_fountain", "output": "I want to go to a place where I can see a dog, a bird, and a water fountain."}
+{"input": "flowers, water, garden", "output": "You water the flowers in the garden."}
+{"input": "book, read, night", "output": "You want to read a book tonight."}
+{"input": "cake, bake, birthday", "output": "You want to bake a cake for a birthday."}
+{"input": "homework, do, afternoon", "output": "You do your homework in the afternoon."}
+{"input": "book, read, bed", "output": "You read a book in bed."}
+{"input": "coffee, drink, morning", "output": "You want to drink coffee in the morning."}
+{"input": "lunch, eat, restaurant", "output": "You want to eat lunch at a restaurant."}
+{"input": "flower, smell, garden", "output": "You want to smell a flower in the garden."}
+{"input": "bus, ride, school", "output": "You want to ride the bus to school."}
+{"input": "letter, write, friend", "output": "You write a letter to a friend."}
+{"input": "pizza, eat, dinner", "output": "You want to eat pizza for dinner."}
+{"input": "apple, eat, hungry", "output": "It sounds like you are hungry and want to eat an apple."}
+{"input": "movie, watch, night", "output": "You want to watch a movie tonight."}
+{"input": "bread, buy, store", "output": "You want to buy bread from the store."}
+{"input": "movie, watch, cinema", "output": "You want to watch a movie at the cinema."}
+{"input": "football, play, field", "output": "You play football on the field."}
+{"input": "tv, watch, evening", "output": "You want to watch TV this evening."}
+{"input": "bike, ride, park", "output": "You ride your bike to the park."}
+{"input": "cat, sleep, sofa", "output": "Your cat is sleeping on the sofa."}
+{"input": "music, listen, happy", "output": "You want to listen to music because you are happy."}
+{"input": "rain, umbrella, outside", "output": "It's raining, so you need an umbrella to go outside."}
+{"input": "car, drive, work", "output": "You want to drive to work."}
+{"input": "milk, drink, morning", "output": "You want to drink milk in the morning."}
+{"input": "cake, bake, party", "output": "You want to bake a cake for a party."}
+{"input": "Listen_to_music, Sun", "output": "\"I enjoy the calming experience of listening to music while basking in the warm sunlight.\""}
+{"input": "Me, Volleyball, Weightlifting", "output": "I want to be active and strong by playing volleyball and lifting weights."}
+{"input": "Me, Volleyball, Weightlifting", "output": "I enjoy staying healthy and active by playing volleyball and weightlifting."}
+{"input": "Listen_to_music, Sun", "output": "I feel happy listening to music in the sunshine."}
+{"input": "Me, Volleyball, Weightlifting", "output": "I like playing volleyball and lifting weights to stay fit."}
+{"input": "Volleyball, Me, Weightlifting", "output": "I like playing volleyball and lifting weights."}
+{"input": "Me, Volleyball, Weightlifting", "output": "I feel good when I play volleyball and do weightlifting."}
+{"input": "Me, Volleyball, Weightlifting", "output": "Playing volleyball and lifting weights makes me feel strong and happy."}
+{"input": "Moon, Water_fountain", "output": "Looking at the moon and listening to a water fountain makes me feel peaceful."}
+{"input": "Moon, Water_fountain", "output": "I find it peaceful to drink water and watch the moon."}
+{"input": "Moon, Water_fountain", "output": "It's calming for me to look at the moon and hear the water fountain."}
+{"input": "Me, Volleyball, Weightlifting", "output": "I get a lot of joy and satisfaction from playing volleyball and weightlifting."}
+{"input": "Dog, Bird, Water_fountain", "output": "I want to see a dog and a bird near a water fountain."}
+{"input": "Thirsty, Parrot", "output": "I am thirsty and would like to see a parrot."}
+{"input": "Dog, Bird, Water_fountain", "output": "I feel calm when I see a dog, a bird, and a water fountain together."}
+{"input": "listen_to_music, headphones", "output": "I want to listen to music with my headphones on."}
+{"input": "tired, bed", "output": "I am tired and want to go to bed."}
+{"input": "hungry, sandwich", "output": "I am hungry. Can I have a sandwich?"}
+{"input": "outside, play", "output": "I want to go outside and play."}
+{"input": "happy, family", "output": "I feel happy when I am with my family."}
+{"input": "bathroom, urgent", "output": "I need to go to the bathroom urgently."}
+{"input": "sad, hug", "output": "I am feeling sad. I need a hug."}
+{"input": "drawing, color", "output": "I would like to color please"}
+{"input": "thirsty, juice", "output": "I would really like a glass of juice, I'm thirsty."}
+{"input": "puzzle, play", "output": "I want to do a puzzle."}
+{"input": "walk, park", "output": "I would like to go for a walk in the park."}
+{"input": "book, read", "output": "I want to read a book."}
+{"input": "bath, soap", "output": "I want to take a bath please."}
+{"input": "cold, sweater", "output": "I'm cold. I want a sweater please."}
+{"input": "help, homework", "output": "I need help with my homework."}
+{"input": "hungry, pizza", "output": "Can I have pizza, please? I'm hungry"}
+{"input": "friends, play", "output": "I want to play with my friends!"}
+{"input": "itchy, cream", "output": "My skin feels itchy. I need my cream."}
+{"input": "lost, toy", "output": "I lost my toy."}
+{"input": "crowded, anxious", "output": "I get anxious when it's crowded. I need some space."}
+{"input": "birthday, excited", "output": "My birthday is coming up, and I am very excited!"}
+{"input": "noisy, headphones", "output": "It's too noisy. I want my headphones."}
+{"input": "movie, happy", "output": "Watching movies makes me really happy."}
+{"input": "classroom, quiet", "output": "The classroom is too noisy. I need a quiet space."}
+{"input": "sad, music", "output": "I want to listen to sad music"}
+{"input": "homework, difficult", "output": "This homework is hard. I do not understand it. Can I have some help please?"}
+{"input": "new_food, scared", "output": "Trying new food scares me. I prefer familiar meals."}
+{"input": "sad, music", "output": "Listening to music helps when I feel sad."}
+{"input": "rain, window", "output": "It's raining, I can see it from the window."}
+{"input": "shoes, tight", "output": "My shoes feel tight. I need different ones."}
+{"input": "hungry, time", "output": "When is lunchtime? I'm very hungry."}
+{"input": "hot, fan", "output": "I am hot and want to turn on the fan."}
+{"input": "paint, class", "output": "I want to go to my art class"}
+{"input": "angry, break", "output": "I am angry and need a break."}
+{"input": "bored, puzzle", "output": "I am bored of solving this puzzle."}
+{"input": "dog, walk", "output": "The dog needs to go for a walk."}
+{"input": "scared, dark", "output": "Can we turn on the light? I'm scared of the dark."}
+{"input": "friends, sad", "output": "I feel sad and want to see my friends."}
+{"input": "story, book", "output": "I would like to read my book, please."}
+{"input": "butterfly, garden", "output": "Can we go watch butterflies in the garden?"}
+{"input": "sunshine, warm", "output": "It's too warm, can we get out of the sunshine?"}
+{"input": "loud, ears", "output": "Loud noises hurt my ears."}
+{"input": "lost, teddy_bear", "output": "I can't find my teddy bear and I'm upset."}
+{"input": "friends, sad", "output": "My friend made me sad."}
+{"input": "headache, quiet", "output": "I have a headache and need a quiet place."}
+{"input": "crowd, overwhelmed", "output": "This crowd is making me feel overwhelmed."}
+{"input": "thirsty, straw", "output": "I'm thirsty and need a straw to drink."}
+{"input": "happy, swing", "output": "Swinging makes me feel joyful."}
+{"input": "sunshine, warm", "output": "The sunshine makes me feel warm and happy."}
+{"input": "friends, sad", "output": "My friend is sad, I want to help them be happy."}
+{"input": "happy, painting", "output": "Painting makes me feel happy."}
+{"input": "happy, painting", "output": "This painting makes me happy."}
+{"input": "noise, upset", "output": "Loud noises make me upset."}
+{"input": "hungry, snack", "output": "I feel hungry and want a snack."}
+{"input": "book, favorite", "output": "This book is my favorite"}
+{"input": "sunny, walk", "output": "I enjoy walks when it's sunny."}
+{"input": "scared, dark", "output": "I am scared of the dark."}
+{"input": "cold, blanket", "output": "I am cold and want a blanket."}
+{"input": "book, favorite", "output": "I want to read my favorite book."}
+{"input": "sunny, walk", "output": "Can we go on a walk? It's sunny outside."}
+{"input": "tired, nap", "output": "I am tired and need a nap."}
+{"input": "bath, relaxed", "output": "Taking a bath helps me relax."}
+{"input": "upset, talk", "output": "I am upset and need to talk."}
+{"input": "hot, water", "output": "I would like some hot water for tea"}
+{"input": "quiet, room", "output": "I need a quiet room to relax."}
+{"input": "laugh, joke", "output": "Jokes make me laugh."}
+{"input": "busy, break", "output": "I've been busy and need a break."}
+{"input": "crowded, uncomfortable", "output": "I feel uncomfortable in crowded places."}
+{"input": "movie, excited", "output": "I am excited to watch a movie!"}
+{"input": "thirsty, juice", "output": "Can I have juice? I'm really thirsty."}
+{"input": "hot, water", "output": "I am feeling hot and need some water."}
+{"input": "scared, storm", "output": "I am scared of the storm."}
+{"input": "new_place, nervous", "output": "I feel nervous in new places."}
+{"input": "thirsty, water", "output": "I am thirsty and would like some water."}
+{"input": "upset, alone", "output": "I am upset and want to be alone."}
+{"input": "sleepy, bed", "output": "I am feeling sleepy and want to go to bed."}
+{"input": "bored, game", "output": "I am bored of playing this game."}
+{"input": "cold, jacket", "output": "I am cold and need my jacket."}
+{"input": "noise, headache", "output": "The loud noises are giving me a headache."}
+{"input": "scared, comfort", "output": "Can you comfort me? I'm feeling scared."}
+{"input": "happy, dance", "output": "Dancing makes me feel happy!"}
+{"input": "crowded, stress", "output": "I get stressed in crowded places."}
+{"input": "homework, help", "output": "I need help with my homework, please."}
+{"input": "bored, game", "output": "I am bored and want to play a game."}
+{"input": "hungry, food", "output": "I am hungry and want some food."}
+{"input": "change, upset", "output": "I get upset when things change."}
+{"input": "drawing, happy", "output": "Drawing makes me happy."}
+{"input": "new_teacher, anxious", "output": "I am anxious about having a new teacher."}
+{"input": "favorite, animal", "output": "That is my favorite animal."}
+{"input": "haircut, nervous", "output": "I am nervous about getting a haircut."}
+{"input": "quiet_place, relax", "output": "I need a quiet place to relax."}
+{"input": "loud, headphones", "output": "The noise is too loud. I need my headphones."}
+{"input": "lost, comfort", "output": "I feel lost and need some comfort."}
+{"input": "routine, comfort", "output": "Following my routine gives me comfort."}
+{"input": "puzzles, focus", "output": "I like to focus on solving puzzles."}
+{"input": "stars, fascinating", "output": "Stars fascinate me."}
+{"input": "food_textures, selective", "output": "Certain food textures bother me."}
+{"input": "sensory_overload, rest", "output": "I am feeling sensory overload and need some rest to recover."}
+{"input": "routine_change, uncomfortable", "output": "Changes in my routine make me uncomfortable."}
+{"input": "swimming, relaxed", "output": "Swimming makes me feel relaxed."}
+{"input": "wind, calm", "output": "The wind makes me feel calm."}
+{"input": "heights, fear", "output": "I have a fear of heights."}
+{"input": "textures, curious", "output": "Different textures make me curious."}
+{"input": "colors, exciting", "output": "Bright colors are exciting to me."}
+{"input": "plants, interest", "output": "Plants really interest me."}
+{"input": "art, expressive", "output": "I like to express myself through art."}
+{"input": "pets, comforting", "output": "Pets are comforting to me."}
+{"input": "music, soothing", "output": "Music soothes me."}
+{"input": "crowds, avoid", "output": "I prefer to avoid crowds."}
+{"input": "loud_music, upsetting", "output": "Loud music upsets me."}
+{"input": "birds, watching", "output": "I like watching birds."}
+{"input": "loud_sounds, earmuffs", "output": "It's too loud, can I have my earmuffs please?"}
+{"input": "new_places, adventure", "output": "Visiting new places is an adventure for me!"}
+{"input": "car_ride, calming", "output": "Car rides are calming for me."}
+{"input": "museum, learning", "output": "I like to go to museums because I learn a lot."}
+{"input": "bright_lights, uncomfortable", "output": "Bright lights make me uncomfortable."}
+{"input": "ocean, peaceful", "output": "The ocean is very peaceful."}
+{"input": "animals, zoo", "output": "I want to go to the zoo to see animals."}
+{"input": "playground, fun", "output": "I think the playground is fun!"}
+{"input": "birthday_party, excited", "output": "My birthday party is coming up, and I'm really excited!"}
+{"input": "rainy_days, cozy", "output": "Rainy days make me feel cozy."}
+{"input": "sunset, amazing", "output": "I think sunsets are amazing!"}
+{"input": "garden, relaxing", "output": "The garden is relaxing"}
+{"input": "night_sky, beautiful", "output": "I think the night sky is really beautiful."}
+{"input": "nature_walks, peaceful", "output": "Nature walks are peaceful for me."}
+{"input": "favorite_song, joyful", "output": "Can we play my favorite song? It makes me feel happy!"}
+{"input": "soft_blanket, comforting", "output": "My soft blanket is comforting to me."}
+{"input": "math_problem, challenging", "output": "This math problem is challenging for me. Can you please help?"}
+{"input": "snack_time, hungry", "output": "I feel hungry during snack time."}
+{"input": "favorite_song, joyful", "output": "Listening to my favorite song makes me feel happy!"}
+{"input": "school_bus, anxious", "output": "Riding the school bus makes me anxious."}
+{"input": "coloring_book, fun", "output": "Coloring in my book is fun."}
+{"input": "science_project, interested", "output": "My science project is interesting."}
+{"input": "rain, smell", "output": "It smells like rain outside."}
+{"input": "library, quiet", "output": "Please be quiet in the library."}
+{"input": "aquarium_visit, amazed", "output": "Visiting the aquarium amazes me."}
+{"input": "family_trip, excited", "output": "I am excited about our family trip!"}
+{"input": "busy_playground, overwhelming", "output": "The busy playground feels overwhelming to me."}
+{"input": "piano_music, relaxing", "output": "Piano music is relaxing to me."}
+{"input": "stuffed_animals, soothing", "output": "My stuffed animals are soothing."}
+{"input": "new_class, curious", "output": "I am curious to learn in my new class."}
+{"input": "hide_and_seek, exciting", "output": "Playing hide and seek is exciting."}
+{"input": "library, quiet", "output": "I like the library because it's quiet."}
+{"input": "foggy_morning, mysterious", "output": "Foggy mornings look mysterious."}
+{"input": "cold_weather, uncomfortable", "output": "I am uncomfortable in the cold weather."}
+{"input": "new_food, hesitant", "output": "I am scared to try new food."}
+{"input": "moon_gazing, tranquil", "output": "Looking at the moon is so peaceful."}
+{"input": "favorite_movie, happy", "output": "Can we watch my fsavorite movie? It'll make me happy."}
+{"input": "ice_cream_flavor, delightful", "output": "This is my favorite ice cream flavor. It's so good!"}
+{"input": "rainbow, beautiful", "output": "I think rainbows are beautiful."}
+{"input": "puppy_play, joyous", "output": "Playing with a puppy is so fun for me!"}
+{"input": "sensory_room, safe", "output": "I want to feel safe, can we go into the sensory room?"}
+{"input": "bird_songs, soothing", "output": "The birds singing sound so soothing to me."}
+{"input": "water_painting, creative", "output": "Water painting allows me to express myself creatively."}
+{"input": "autumn_leaves, colorful", "output": "The autumn leaves look so colorful!"}
+{"input": "bubble_bath, relaxing", "output": "I want to relax, can I take a bubble bath?"}
+{"input": "star_gazing, wonderful", "output": "Gazing at the stars is so wonderful."}
+{"input": "nature_hike, adventurous", "output": "Let's go on a nature hike! Our adventure awaits!"}
+{"input": "wind_chimes, melodic", "output": "The wind chimes sound melodic."}
+{"input": "fruit_salad, tasty", "output": "This fruit salad is so tasty!"}
+{"input": "ocean_waves, calming", "output": "The sound of ocean waves is calming for me."}
+{"input": "cooking_class, fun", "output": "I want to cook!"}
+{"input": "rock_collection, fascinating", "output": "I love rocks!"}
+{"input": "sand_castle, creative", "output": "What a good sand castle! Very creative."}
+{"input": "fireflies, magical", "output": "These fireflies are so magical!"}
+{"input": "park, swing", "output": "I want to go to the park and play on the swings."}
+{"input": "dog, walk", "output": "Can we take the dog for a walk?"}
+{"input": "cooking_class", "output": "I want to cook something."}
+{"input": "hot, ice_cream", "output": "It's hot today. Let's get some ice cream!"}
+{"input": "bored, game", "output": "I am bored. Let's play a game!"}
+{"input": "scared, dark", "output": "I am scared of the dark."}
+{"input": "tired, nap", "output": "Can I take a nap? I'm really tired."}
+{"input": "happy, dance", "output": "I'm happy and want to dance!"}
+{"input": "hungry, chocolate", "output": "I'm hungry. Can I have some chocolate?"}
+{"input": "angry, quiet", "output": "I am angry and need some quiet time."}
+{"input": "swim, pool", "output": "Can we go to the pool? I want to swim."}
+{"input": "curious, book", "output": "This book is very interesting."}
+{"input": "bike, ride", "output": "I want to go for a bike ride, please."}
+{"input": "thirsty, lemonade", "output": "I'm thirsty. Can I have some lemonade?"}
+{"input": "sleepy, story", "output": "I want to hear a bedtime story please."}
+{"input": "hungry, pancakes", "output": "I am hungry and would like to eat pancakes."}
+{"input": "play, dog", "output": "I want to play with my dog."}
+{"input": "lost, toy", "output": "I can't find my favorite toy and I'm upset."}
+{"input": "scared, hug", "output": "I feel scared. Can I have a hug?"}
+{"input": "excited, movie", "output": "I want to watch an action movie, or something exciting!"}
+{"input": "Listen_to_music, Sun, Thirsty", "output": "Let\u2019s listen to music! Also, I\u2019m thirsty because I\u2019ve been out in the sun too long"}
+{"input": "rain, window", "output": "I like watching the rain from the window."}
+{"input": "garden, flowers", "output": "I want to go to the garden and see the flowers."}
+{"input": "garden, flowers", "output": "I like the flowers in this garden."}
+{"input": "swimming, pool", "output": "Can we go swimming in the pool?"}
+{"input": "swimming, pool", "output": "I want to swim in the pool."}
+{"input": "ice_cream, hot", "output": "It's hot. I want ice cream."}
+{"input": "shoes, run", "output": "I need my running shoes to go running."}
+{"input": "cat, pet", "output": "Can I pet the cat?"}
+{"input": "beach, sandcastle", "output": "I like building sandcastles at the beach."}
+{"input": "bicycle, ride", "output": "Can I go for a ride on my bike?"}
+{"input": "tree, climb", "output": "I love climbing trees."}
+{"input": "tree, climb", "output": "I want to go on the tree house."}
+{"input": "paint, art", "output": "Can I do some painting?"}
+{"input": "dog, walk", "output": "Can I take the dog for a walk?"}
+{"input": "stars, night", "output": "Can we see the stars tonight?"}
+{"input": "teddy_bear, sleep", "output": "I want to sleep with my teddy bear."}
+{"input": "book, story", "output": "Can you read me a story from the book?"}
+{"input": "book, story", "output": "I want to hear a story from the book."}
+{"input": "train, play", "output": "I want to play with my train set."}
+{"input": "hungry, pizza", "output": "I am hungry. Can we have pizza?"}
+{"input": "hungry, pizza", "output": "I want pizza for lunch."}
+{"input": "school, friends", "output": "I like going to school to see my friends."}
+{"input": "hot, drink", "output": "Can I have a cold drink? It's really hot."}
+{"input": "sad, hug", "output": "I'm sad and need a hug."}
+{"input": "butterfly, garden", "output": "Can we go look for butterflies in the garden?"}
+{"input": "Cracker, Nachos", "output": "\"I'm feeling hungry. Can I have some crackers and nachos, please?\""}
+{"input": "Listen_to_music, Moon, Rocket", "output": "\"I want to listen to music about space, like a song about the moon and something else.\""}
+{"input": "Dog", "output": "\"I want to play with a dog.\""}
+{"input": "Dog, Moon", "output": "\"I want to look at the moon and play with a dog.\""}
+{"input": "Dog, Moon, Pancakes", "output": "\"I want to eat pancakes while looking at the moon with a dog.\""}
+{"input": "Dog, Moon, Pancakes, Freezer, Dishes, Pineapple", "output": "\"I want to eat pancakes and pineapple from the freezer. After eating, \nI would like to help with the dishes. Later, I would like to look at the moon and play with a dog.\""}
+{"input": "Dog, Moon, Dishes, Pineapple, Lion", "output": "\"I want to play with a dog and a lion under the moonlight. After that, I would like to eat pineapple and help with the dishes.\""}
+{"input": "Sun, Sunglasses", "output": "\"I want to go outside and enjoy the sunshine. But I need to wear my sunglasses because it\u2019s too much light!\""}
+{"input": "Sunglasses, Rocket, Surfboard", "output": "\"I want to pretend to be an astronaut surfing in space. Can I wear my sunglasses?\""}
+{"input": "Sunglasses, Rocket, Surfboard", "output": "\"I would like to pretend I'm an astronaut, surfing in space with my sunglasses on. Can we play that?\""}
+{"input": "algebra_formula, angel", "output": "\"I need help with my algebra homework. Can you explain this formula to me? You would be my hero!"}
+{"input": "algebra_formula, angry_man", "output": "\"I'm feeling frustrated with my algebra homework.\""}
+{"input": "A, above, absent, across, acorn, acne_spots", "output": "\"I can't find my acorn. It's not above, it's not across, it's absent. Also, I'm worried about my acne spots.\""}
+{"input": "A, above, absent, acne_spots", "output": "\"I can't find my 'A' from my alphabet set. I looked everywhere but it's absent. I even checked above, but it's not there. Also, I'm worried about these acne spots on my face.\""}
+{"input": "A, absent, acne_spots", "output": "\"I am not present today. I have acne spots.\""}
+{"input": "absent, acorn", "output": "\"I am not here right now. I got hit in the head with an acorn.\""}
+{"input": "A, absent", "output": "\"I am not here right now.\""}
+{"input": "A, absent, activity_centre, across", "output": "\"I am not at the activity center right now.\""}
+{"input": "A, absent, activity_centre, across, add", "output": "\"I am not at the activity center right now. I need to add something.\""}
+{"input": "A, absent, activity_centre, across, add, ask_,_to, artist_palette, aubergine", "output": "Could you paint an eggplant? "}
